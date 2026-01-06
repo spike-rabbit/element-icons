@@ -6,7 +6,7 @@
   },
   {
     "name": "favorites",
-    "terms": ["star", "highlighted"],
+    "terms": ["star", "highlighted", "bob"],
     "category": "Application"
   },
   {
